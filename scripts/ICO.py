@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 from brownie import DefaultToken, accounts
-print('asdfasd')
 
 # NOTE! for verification run: 
 # ``` 
